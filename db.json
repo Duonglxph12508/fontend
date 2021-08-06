@@ -1,0 +1,124 @@
+{
+  "product": [
+    {
+      "id": "6661334030015045",
+      "name": "duong",
+      "price": "123444444444444",
+      "categoryId": "2",
+      "status": "1"
+    },
+    {
+      "id": "4012022556265644",
+      "name": "name 2",
+      "price": "123",
+      "categoryId": "2",
+      "status": "0"
+    },
+    {
+      "id": "3361550345412554",
+      "name": "test cate",
+      "price": "123",
+      "categoryId": "3",
+      "status": "1"
+    },
+    {
+      "id": "1651021020424013",
+      "name": "cate 5",
+      "price": "123",
+      "categoryId": "675",
+      "status": "0"
+    },
+    {
+      "id": "640663422245352",
+      "name": "5",
+      "price": "123",
+      "categoryId": "675",
+      "status": "0"
+    },
+    {
+      "id": "4252502014265236",
+      "name": "6",
+      "price": "453",
+      "categoryId": "3",
+      "status": "0"
+    },
+    {
+      "id": "5043244040431524",
+      "name": "7",
+      "price": "213",
+      "categoryId": "1",
+      "status": "0"
+    },
+    {
+      "id": "1004026145613011",
+      "name": "duong1",
+      "price": "123",
+      "categoryId": "1",
+      "status": "0"
+    },
+    {
+      "id": "5225460335534662",
+      "name": "danh muc1",
+      "price": "100",
+      "categoryId": "1",
+      "status": "0"
+    },
+    {
+      "id": "0314606243310256",
+      "name": "danh muc 4",
+      "price": "12345",
+      "categoryId": "14",
+      "status": "1"
+    },
+    {
+      "id": "0021601526305233",
+      "name": "duong1",
+      "price": "1231231312312312312",
+      "categoryId": "3",
+      "status": "0"
+    },
+    {
+      "id": "51616102552234434",
+      "name": "duong1",
+      "price": "1231231312312312312",
+      "categoryId": "3",
+      "status": "0"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "cate1"
+    },
+    {
+      "id": "2",
+      "name": "cate2"
+    },
+    {
+      "id": "3",
+      "name": "cate3"
+    },
+    {
+      "id": "14",
+      "name": "cate 4"
+    },
+    {
+      "id": "1642",
+      "name": "duong"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$pWtxzeAJQESxI9i65E5QFOIF8TApS9e4w9sHBMIaYdfp/RQAIsFLe",
+      "username": "duongle9212",
+      "id": 1
+    },
+    {
+      "email": "member@gmail.com",
+      "password": "$2a$10$1GQwgN6XD9xC9h2rF8dKMOhE0RHVHP7K1lOc/mtWP.nex0CECwQom",
+      "username": "member",
+      "id": 2
+    }
+  ]
+}
